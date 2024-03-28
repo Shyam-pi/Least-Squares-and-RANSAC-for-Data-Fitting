@@ -19,7 +19,7 @@ This repository contains the implementation and analysis of data fitting using L
 
 **Challenges:** Selection of appropriate color space for masking, ensuring accurate detection across frames.
 
-**Code**: '''python track.py'''
+**Code**: python track.py
 
 **Results:** Visualization of the ball's trajectory over time:
 
@@ -92,6 +92,8 @@ This repository contains the implementation and analysis of data fitting using L
 3. **Comparison:** Evaluate the performance of each fitting method and interpret the results.
 
 **Challenges:** Choosing the appropriate outlier rejection method, balancing computational efficiency with accuracy.
+
+**Code**: python leastsquares.py and python ransac.py
 
 **Results:** Comparison of fitting methods and their suitability for different scenarios (LS = Least Squares)
 
