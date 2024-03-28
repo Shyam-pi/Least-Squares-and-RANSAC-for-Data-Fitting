@@ -19,6 +19,8 @@ This repository contains the implementation and analysis of data fitting using L
 
 **Challenges:** Selection of appropriate color space for masking, ensuring accurate detection across frames.
 
+**Code**: '''python track.py'''
+
 **Results:** Visualization of the ball's trajectory over time:
 
 ![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/11c1b02c-00e4-4b71-a4ce-080749e5d11b)
@@ -34,6 +36,8 @@ This repository contains the implementation and analysis of data fitting using L
 3. **Equation Printing:** Print the equation of the fitted parabola.
 
 **Challenges:** Choosing the appropriate form of the parabola for fitting, ensuring accurate parameter estimation.
+
+**Code**: python parabola.py
 
 **Results:** Equation of the fitted parabola and visualization of the data with the best fit curve:
 
@@ -52,6 +56,8 @@ This repository contains the implementation and analysis of data fitting using L
 
 **Challenges:** Accounting for camera motion during trajectory calculation, determining the correct solution from the parabolic equation.
 
+**Code**: python parabola.py
+
 **Results:** Printed x-coordinate of the ball's landing spot:
 
 ![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/319e85db-fc82-4aaa-aa12-35e7c58e89d8)
@@ -68,6 +74,8 @@ This repository contains the implementation and analysis of data fitting using L
 2. **Surface Normal:** Calculate the surface normal using eigenvectors of the covariance matrix.
 
 **Challenges:** Interpreting the significance of the surface normal magnitude, ensuring correct computation of the covariance matrix.
+
+**Code**: python covar.py
 
 **Results:** Covariance matrix and direction/magnitude of the surface normal:
 
