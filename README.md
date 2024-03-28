@@ -1,6 +1,6 @@
 # Least-Squares-and-RANSAC-for-Data-Fitting
 
-**Goal**: Implementation and analysis of data fitting using Least Squares and RANSAC on a ball's trajectory obtained from a video footage and plane fitting on point cloud data followed by surface normal computation
+**Note**: This project was implemented as a part of the course ENPM673 in Spring 2023 at the University of Maryland, College Park
 
 # Project Overview
 
