@@ -69,7 +69,10 @@ This repository contains the implementation and analysis of data fitting using L
 
 **Challenges:** Interpreting the significance of the surface normal magnitude, ensuring correct computation of the covariance matrix.
 
-**Results:** Covariance matrix and direction/magnitude of the surface normal.
+**Results:** Covariance matrix and direction/magnitude of the surface normal:
+
+![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/2f560d97-2bb7-4834-8e31-b948691e04e1)
+![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/43f6bfb9-14f2-4182-ae02-2ed316638f37)
 
 ### 2.2. Surface Fitting with Various Methods
 
@@ -82,7 +85,15 @@ This repository contains the implementation and analysis of data fitting using L
 
 **Challenges:** Choosing the appropriate outlier rejection method, balancing computational efficiency with accuracy.
 
-**Results:** Comparison of fitting methods and their suitability for different scenarios.
+**Results:** Comparison of fitting methods and their suitability for different scenarios (LS = Least Squares)
+
+![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/48816a88-9295-4d16-ae40-38dea2fcd262)
+
+![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/d94591ed-e7ab-46cc-9940-48653640c68c)
+
+![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/14831654-5693-4cd0-8d35-9189a34f4622)
+
+![image](https://github.com/Shyam-pi/Least-Squares-and-RANSAC-for-Data-Fitting/assets/57116285/61ac8b99-9859-4c72-a960-49fdaa9425c0)
 
 ## Conclusion
 
